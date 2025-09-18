@@ -69,7 +69,7 @@ const Index = () => {
       <div className="container mx-auto px-4 py-6 space-y-6">
         {/* Hero Banner (texto estático para não depender mais do payload) */}
         <HeroBanner
-          title="Ranking de Traders - Suzana"
+          title="Ranking de Traders - Pedro"
           description={`Faça um depósito de pelo menos R$ ${minDeposit} para se tornar apto ao torneio!`}
         />
         {/* Premiação & Regras */}
