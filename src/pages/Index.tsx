@@ -82,9 +82,9 @@ const Index = () => {
     </div>
 
     <ul className="space-y-1 text-sm">
-      <li><span className="font-medium">1º lugar:</span> Banca de R$ 3.000</li>
-      <li><span className="font-medium">2º lugar:</span> Banca de R$ 500</li>
-      <li><span className="font-medium">3º lugar:</span> Banca de R$ 500</li>
+      <li><span className="font-medium">1º lugar:</span>7 dias pagos no hotel Boulevard (Caldas Novas)</li>
+      <li><span className="font-medium">2º lugar:</span> Banca de R$ 300</li>
+      <li><span className="font-medium">3º lugar:</span> Banca de R$ 100</li>
     </ul>
   </div>
 
@@ -96,7 +96,7 @@ const Index = () => {
     </div>
 
     <ol className="list-decimal list-inside space-y-1 text-sm">
-      <li>Necessário depositar pelo menos <span className="font-medium">R$ {minDeposit} entre 11/09 e 30/09</span>.</li>
+      <li>Necessário depositar pelo menos <span className="font-medium">R$ {minDeposit} entre 11/09 e 18/10</span>.</li>
       <li>Ganha o trader que tiver o maior <span className="font-medium">Resultado no período</span>.</li>
       <li>A banca será fornecida em até 5 dias úteis após o termino do torneio e terá um rollover de 5x para o saque.</li>
     </ol>
