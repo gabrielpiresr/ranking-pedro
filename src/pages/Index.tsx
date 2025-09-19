@@ -82,9 +82,9 @@ const Index = () => {
     </div>
 
     <ul className="space-y-1 text-sm">
-      <li><span className="font-medium">1º lugar:</span> 7 dias pagos no hotel Boulevard (Caldas Novas)</li>
-      <li><span className="font-medium">2º lugar:</span> Banca de R$ 300</li>
-      <li><span className="font-medium">3º lugar:</span> Banca de R$ 100</li>
+      <li><span className="font-medium">1º lugar:</span> 7 dias pagos no hotel Boulevard (Caldas Novas) + kit trader 360 underground</li>
+      <li><span className="font-medium">2º lugar:</span> Banca de R$ 300 + kit trader 360 underground</li>
+      <li><span className="font-medium">3º lugar:</span> Banca de R$ 100 + kit trader 360 underground</li>
     </ul>
   </div>
 
